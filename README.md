@@ -11,27 +11,27 @@ Concepts Practiced
 
 This project covers practical implementations of core React fundamentals, including:
 
-React components & JSX
+- React components & JSX
 
-Component structure & file organization
+- Component structure & file organization
 
-Dynamic content rendering
+- Dynamic content rendering
 
-Props & component reusability
+- Props & component reusability
 
-Event handling & passing functions as props
+- Event handling & passing functions as props
 
-State management using React Hooks (useState)
+- State management using React Hooks (useState)
 
-Conditional rendering
+- Conditional rendering
 
-Rendering multi-dimensional lists
+- Rendering multi-dimensional lists
 
-Two-way data binding for editable player names
+- Two-way data binding for editable player names
 
-Updating state immutably and best practices
+- Updating state immutably and best practices
 
-Features
+# Features
 
 Modular and reusable React components
 
@@ -47,7 +47,7 @@ Conditional UI highlighting active player
 
 Organized and readable codebase
 
-Built With
+# Built With
 
 React
 
@@ -71,6 +71,7 @@ A foundation before moving to advanced React concepts
 
 ▶️ Run Locally
 
-``bash
+```bash
+
 npm install
 npm run dev
